@@ -6,4 +6,4 @@ until the end of the semester.
 
 If you find any mistake in the implementations, please let me know.
 
-**Author** Juan Camilo Henao Londono -> [Website](https://juanhenao21.github.io/)
+**Author:** Juan Camilo Henao Londono -> [Website](https://juanhenao21.github.io/)
