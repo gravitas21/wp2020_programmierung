@@ -38,3 +38,6 @@ If you find any mistake in the implementations, please let me know.
 + Inverse of the covariance matrix.
 
 **Author:** Juan Camilo Henao Londono -> [Website](https://juanhenao21.github.io/)
+AG Guhr -> [Website](http://www.theo.physik.uni-duisburg-essen.de/tp/ags/guhr_dir/lectures/wiphy.html)
+Fakultät für Physik -> [Website](https://www.uni-due.de/physik/)
+Universität Duisburg-Essen -> [Website](https://www.uni-due.de/)
