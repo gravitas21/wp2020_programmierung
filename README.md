@@ -9,6 +9,7 @@ If you find any mistake in the implementations, please let me know.
 ## Contents
 
 ### Week 1 (20. April - 26. April)
+*No programming task*
 + Shifted Gaussian distribution.
 + Variance of a distribution.
 + Stock investment.
