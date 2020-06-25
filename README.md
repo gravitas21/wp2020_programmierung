@@ -1,5 +1,9 @@
-# Wirtschaftsphysik 2020
 
+Declaration:This library is a fork and modification of the Econophysics course 2020 library. All credits to them.
+___________________________________________________________________________________________________________________
+
+
+# Wirtschaftsphysik 2020
 In this repository a will upload all the programming exercises of the Econophysics course 2020.
 You can check or download the code in the different folders. This material will be available
 until the end of the semester.
