@@ -1,5 +1,9 @@
 
-Declaration: This library is a fork and modification of the Econophysics course 2020 library. All credits to them.
+Declaration: This library is a fork and modification of the Econophysics course 2020 library. All credits to them. 
+These files are configured so they can run on colab, azure or GESIS and other cloud services if any. Especially for
+the import section of ipynb files. Modify as per need if on PC. Python versions may change so minor syntax changes 
+may be needed in code.
+
 ___________________________________________________________________________________________________________________
 
 
