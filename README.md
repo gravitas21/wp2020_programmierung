@@ -1,5 +1,5 @@
 
-Declaration:This library is a fork and modification of the Econophysics course 2020 library. All credits to them.
+Declaration: This library is a fork and modification of the Econophysics course 2020 library. All credits to them.
 ___________________________________________________________________________________________________________________
 
 
